@@ -1,5 +1,5 @@
 name: SWT Daily Report
-
+#reindex note
 on:
   workflow_dispatch:
   schedule:
